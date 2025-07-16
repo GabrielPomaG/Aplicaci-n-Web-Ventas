@@ -31,8 +31,6 @@ Wankas se construye sobre una pila tecnológica moderna y escalable, diseñada p
 
 * **Frontend:** Desarrollado con **React** (utilizando Vite para el entorno de desarrollo), emplea **Chakra UI** para el sistema de componentes de la interfaz de usuario y **Framer Motion** para animaciones y transiciones fluidas, asegurando una experiencia de usuario dinámica y responsiva.
 * **Backend:** Implementado con **Node.js** y **Express.js**, actúa como una API RESTful que orquesta la lógica de negocio, la interacción con la base de datos y la comunicación con los servicios de IA.
-* **Base de Datos:** **Firestore** (parte de Firebase) es utilizada para la persistencia de datos esenciales como productos, usuarios, pedidos y la información de las sedes.
-* **Autenticación:** La gestión de usuarios y sesiones se realiza a través de **Firebase Authentication**.
 * **Servicios de Inteligencia Artificial:** La **Google Cloud Vision API** es utilizada para el reconocimiento de imágenes de alimentos, mientras que la **Gemini API** se emplea para la generación de contenido textual, específicamente recetas. Ambas integraciones se manejan desde el backend para garantizar la seguridad de las claves de API.
 
 ## Integrantes
